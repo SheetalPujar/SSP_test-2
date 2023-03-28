@@ -12,14 +12,14 @@
       "location" : "Chennai",
       "first name": "Karthik",
       "last name": "Kumar",
-      "dob": "25/11/1993"
+      "dob": "05/11/1993"
     },
     {
       "id": "3",
       "location" : "Noida",
       "first name": "Sahil",
       "last name": "Sheik",
-      "DOB": "14/07/1990"
+      "DOB": "12/07/1990"
     }
   ],
   "number of subjects": [
