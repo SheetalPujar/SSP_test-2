@@ -22,16 +22,6 @@
       "DOB": "14/07/1990"
     }
   ],
-  "hostel details": [
-    {
-      "hostel location" : "Banglore",
-      "hostel amount" : "45000"
-    },
-    {
-      "hostel location" : "Chennai",
-      "hostel amount" : "43000"
-    }
-  ],
   "number of subjects": [
     {
       "Student 1": "4",
