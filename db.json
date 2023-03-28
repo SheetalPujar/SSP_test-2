@@ -1,5 +1,5 @@
 {
-  "student details": [
+  "studentdetails": [
     {
       "id": "1",
       "location" : "Bangalore",
@@ -10,26 +10,26 @@
     {
       "id": "2",
       "location" : "Chennai",
-      "first name": "Karthik",
-      "last name": "Kumar",
+      "firstname": "Karthik",
+      "lastname": "Kumar",
       "dob": "05/11/1993"
     },
     {
       "id": "3",
       "location" : "Noida",
-      "first name": "Sahil",
-      "last name": "Sheik",
-      "DOB": "12/07/1990"
+      "firstname": "Sahil",
+      "lastname": "Sheik",
+      "dob": "12/07/1990"
     }
   ],
-  "number of subjects": [
+  "numberofsubjects": [
     {
-      "Student 1": "4",
-      "Student 2": "5"
+      "Student1": "4",
+      "Student2": "5"
     },
     {
-      "Student 1": "2",
-      "Student 2": "3"
+      "Student1": "2",
+      "Student2": "3"
     }
   ]
 }
