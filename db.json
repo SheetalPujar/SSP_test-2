@@ -25,11 +25,11 @@
    "hostelamount": [
     {
       "hostellocation": "Bangalore",
-      "hostelamount": "45000"
+      "hostelpayment": "45000"
     },
     {
       "hostellocation": "Bangalore",
-      "hostelamount": "45000"
+      "hostelpayment": "45000"
     }
   ],
   "numberofsubjects": [
