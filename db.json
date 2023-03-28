@@ -28,8 +28,8 @@
       "hostel amount" : "45000"
     },
     {
-      "location" : "Bangalore",
-      "amount" : "45000"
+      "hostel location" : "Bangalore",
+      "hostel amount" : "45000"
     }
   ],
   "number of subjects": [
