@@ -3,8 +3,8 @@
     {
       "id": "1",
       "location" : "Bangalore",
-      "first name": "Suraj",
-      "last name": "Naik",
+      "firstname": "Suraj",
+      "lastname": "Naik",
       "dob": "04/02/1990"
     },
     {
